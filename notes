@@ -1,0 +1,30 @@
+adding "aside" here made everything go crazy
+
+body, h1, h2, h3, h4, h5, h6, p, li, aside {
+  margin: 0;
+  font-size:86%;
+  line-height:1.4em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+wanted to have a background color in aside
+aside {
+  border: 1px solid black;
+  background-color: #808080;
+  width: 20%;
+  float: right;
+}
+
+
+gallery
+css garden
+selectors
+semantic html
+jquery plug-in
+group project
+link to github (java worksheets, command line worksheets)
+
+
+
